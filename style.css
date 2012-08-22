@@ -1,0 +1,28 @@
+/**
+ * Theme Name:     Jenny T. Williamson
+ * Description:    Child theme for the Evision theme 
+ * Author:         Jesse Rosato
+ * Template:       evision
+ * Version:        0.1.0
+ */
+@import url('../evision/style.css');
+
+img.alignleft {
+	margin-right: 12px;
+	margin-bottom: 0;
+}
+
+.sidebar-widget .button_size2 {
+	margin-top: 12px;
+	margin-bottom: 24px;
+}
+
+/* Media Page */
+.page-id-6 .post-content {
+	margin-bottom: 40px;
+}
+
+.page-id-6 div.two-third {
+	float: none;
+	margin: 0 auto;
+}
